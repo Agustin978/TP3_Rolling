@@ -9,3 +9,5 @@ Ejercicio 3: Se realiza el tirado de dos dados (se obtienen numeros aleatorios) 
 Ejercicio 4: El usuario ingresa un numero y luego una funcion determina si el mismo es par o impar y retorna un mensaje segun sea el caso.
 
 Ejercicio 5: El usuario ingresa una frase y luego mediante una funcion se determina si la misma esta compuesta por mayusculas, por minusculas o por ambas.
+
+Ejercicio 6: El usuario ingresa los lados de un rectangulo y luego mediante una funcion se calcula el perimetro del mismo.
